@@ -1,0 +1,25 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserdata
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+/.build
+/Packages
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# User settings
+*.swp
+*.swo
+.DS_Store
